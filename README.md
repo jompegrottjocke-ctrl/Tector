@@ -5,7 +5,7 @@ Byggt med Godot **4.6.3**, utan externa tillägg eller inköpta resurser.
 
 ## Spela
 
-Windows: packa upp Windows-utgåvan och starta `Tector.exe`.
+Windows: [ladda ner Tector v0.1 (ZIP)](https://github.com/jompegrottjocke-ctrl/Tector/raw/refs/heads/main/downloads/Tector-v0.1-Windows-x64.zip), packa upp hela ZIP-filen och starta `Tector.exe`.
 Källkod: öppna `project.godot` i Godot 4.6.3 och tryck F6/F5 (F5 kör projektet).
 Alternativt: `godot --path .`.
 
